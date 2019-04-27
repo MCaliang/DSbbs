@@ -7,671 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1359c5b2-ac53-41e8-8bd4-53b4605273d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_106_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_108_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_110_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_115_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_119_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_122_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_125_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_134_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_137_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_138_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_139_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_13_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_140_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_141_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_142_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_144_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_145_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_147_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_14_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_150_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_152_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_157_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_15_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_165_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_16_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_17_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_18_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_19_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_20_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_214_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_215_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_216_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_217_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_21_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_22_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_2_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_534_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_535_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_536_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_537_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_538_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_539_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_540_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_541_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_542_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_543_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_544_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_545_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_546_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_548_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_549_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_550_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_551_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_552_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_553_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_554_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_557_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_559_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_560_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_561_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_562_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_563_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_564_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_565_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_566_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_568_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_69_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_72_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_91_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forumlogo/common_94_icon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/forums.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn034.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn035.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn036.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn037.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn038.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn039.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn040.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn041.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn042.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn043.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn044.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn045.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn046.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn047.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn049.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn050.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn051.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn052.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn053.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn055.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn056.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn057.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn058.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn059.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn060.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn061.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn062.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn063.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn064.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn065.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn066.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn067.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn068.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn069.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn070.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn072.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn073.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn074.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn076.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn077.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn078.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn080.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn081.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn082.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn083.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn084.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn085.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn086.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn087.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn088.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn089.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn090.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn091.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn092.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn093.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/acn/acn097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/biggrin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/call.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/cry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/curse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/dizzy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/funk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/handshake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/huffy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/hug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/kiss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/lol.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/loveliness.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/mad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/sad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/shocked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/shutup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/shy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/sleepy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/smile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/sweat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/titter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/tongue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/default/victory.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz034.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz035.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz036.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz037.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz038.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz039.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz040.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz041.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz042.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz043.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz044.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz045.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz046.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz047.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz048.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz049.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz050.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz051.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz052.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz053.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz055.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz056.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz057.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz058.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz059.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz060.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz061.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz062.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz063.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz064.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz065.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz066.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz067.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz068.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz069.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz070.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz072.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz073.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz074.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz076.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz077.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz078.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz079.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz080.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz081.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz082.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz083.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz084.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz085.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz086.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz087.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz088.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz089.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz090.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz091.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz092.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz093.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz097.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz098.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz099.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/jgz/jgz100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb007.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb008.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb009.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb017.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb020.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb022.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb029.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb030.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/assets/smiley/tieba/tb033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/AboutActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/BaseActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ChangePasswordActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ChatActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/EditActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ForgetPasswordActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/FragementActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/FriendActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/HomeActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/LaunchActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/NewPostActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/PostActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/PostsActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ReplyCzActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/SearchActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/SettingActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/SignActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ThemeActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/UserDetailActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/activity/ViewImgActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/BaseAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/ChatListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/ForumsAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/FriendAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/HistoryAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/HotNewListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/MainPageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/MessageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/PostAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/PostListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/SimpleListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/adapter/SmileyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/ApiForumIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/ApiForumList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/ApiPostList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/ApiResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Catlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Forum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/ForumThreadlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Forumlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Notice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Postlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Reply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Setting_rewriterule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/api/entity/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/checknet/CheckNet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/checknet/CheckNetResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/checknet/NetworkReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/database/MyDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/database/SQLiteHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/downloadfile/DownLoadActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/downloadfile/DownloadService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/downloadfile/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/BaseFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/BaseLazyFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FragSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FrageForums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FrageHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FrageHotsNews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FrageMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FrageTopicStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/fragment/FragmentMy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/listener/HidingScrollListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/listener/ListItemClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/listener/ListItemLongClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/listener/LoadMoreListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/ArticleListData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/ChatListData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/Forum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/ForumListData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/FrageType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/FriendData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/GalleryData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/ListType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/MessageData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/ReadHistoryData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/SimpleListData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/SingleArticleData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/SingleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/VoteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/model/WaterData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/ApiResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/AsyncHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/FileResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/HttpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/PersistentCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/ResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/SyncHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/TextResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/myhttp/UploadImageResponseHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/DataManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/DimenUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/GetId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/IntentUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/KeyboardUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/LinkClickHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/RuisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/TabsHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/utils/UrlUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/AddFriendDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/ArrowTextView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/ArticleJumpDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/BatchRadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/CircleImageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/GradeProgressView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/InputValidDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyBottomTab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyCircleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyColorPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyFriendPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyGridDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyGuildView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MyListDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MySmileyPicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/MySpinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/ScaleImageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/ScalePageTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/ThemeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/AttachImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/ColorTextSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/EmoticonSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/EmotionGridView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/EmotionInputHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/KeyBoardHeightPreference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/SmileyContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/SmileyDataSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/SmileyEmoji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/SmileyInputRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/emotioninput/SmileyView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/AttrParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/DefaultClickHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/DefaultImageGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/HtmlNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/HtmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/HtmlTag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/HtmlView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/ImageCacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/ParserCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/SelectFixTextView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/SpanConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/VoteDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/callback/ImageGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/callback/ImageGetterCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/callback/SpanClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/callback/ViewChangeNotify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Bold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Heading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Hr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Italic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Li.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Pre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Quote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Strike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/StyleSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/Super.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/me/yluo/ruisiapp/widget/htmlview/spann/UnderLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/fade_out.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/text_login_btn.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/text_primary_white.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chat_friends.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chat_friends_1.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chat_me.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/chat_me_1.9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/badge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_back_space.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_post.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/divider_bottom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/dot_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_back_white.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_drop_down_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_arrow_drop_down_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_autorenew_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_backspace_click.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_backspace_normal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_backspace_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_chat_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_check_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_check_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_close_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_column_change_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_content_copy_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_done_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit_emoticon_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit_emoticon_accent_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_favorite_white_12dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_file_download_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_format_bold_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_format_color_text_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_format_italic_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_format_quote_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_info_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_insert_link_36dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_insert_photo_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_left_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_right_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_mail_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_menu_share_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_more_vert_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_notifications_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_palette_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_person_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_refresh_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_save_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_search_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_settings_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_share_32dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_star_32dp_not.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_star_32dp_yes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_visibility_off_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_warning_black_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_whatshot_white_24dp.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_mine_collect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_mine_friend.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_mine_history.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/icon_mine_info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/image_placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_divider.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/my_spinner_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/post_comment_send_able.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/post_comment_send_disable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rec_solid_primary_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sl_chat_friend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sl_chat_me.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_center_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_left_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_right_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/font.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/fontawesome.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_change_password.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chnage_password.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_download.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_forget_password.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_friend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_launch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_new_topic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_post.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_posts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_reply_cz.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sign.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_theme.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_detail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_img.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_add_friend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_friend_picker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_input_valid.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_jump_page.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_forums.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_msg_hot.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_my.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_banner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_l.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_chat_r.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_color.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_comment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_content_h.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_forum_h.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_forum_n.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_friend.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_friend_picker.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_function.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_history.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_load_more.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_messgae.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_post_img.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_post_me.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_post_rs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_sim_list.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_smiley.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_vote.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_toolbar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_editor_bar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_input_bar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_post_spinner_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_search_card.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_smiley_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_smiley_view.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/my_toolbar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_post_more.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_userdetail.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap/logo_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap/rs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/array.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/setting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/key.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/9.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -687,10 +24,45 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_post.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/font/font.xml">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap/rs.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap/logo_round.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo_round.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -706,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -717,7 +89,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -740,8 +113,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -851,18 +223,18 @@
       <window_info anchor="bottom" id="TODO" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="4" weight="0.30985916" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.30985916" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.32936078" />
       <window_info anchor="bottom" id="Logcat" order="6" />
-      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="8" />
-      <window_info anchor="right" id="Preview" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Assistant" order="4" visible="true" weight="0.23560767" />
       <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Preview" order="6" weight="0.32995737" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -913,9 +285,6 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/color/text_primary_white.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_back_space.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -927,7 +296,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_post.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/fontawesome.ttf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/font/font.xml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap/rs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap/logo_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo_round.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/bg02.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
