@@ -33,6 +33,7 @@ iOS版见[Ruisi_Ios](https://github.com/freedom10086/Ruisi_Ios)
 
 ### 意见和反馈
 - [freedom10086](https://www.xdluoyang.com/) <2351386755@qq.com>
+
 - [KingsFish](https://kingsfish.github.io/about/) <kingsfish95@gmail.com>
 
 ### 参考和用到的开源库和软件：
