@@ -16,7 +16,7 @@ iOS版见[Ruisi_Ios](https://github.com/freedom10086/Ruisi_Ios)
 [校园网访问](http://rs.xidian.edu.cn/forum.php?mod=viewthread&tid=805203)
 
 #### 第三方市场
-[酷安](https://www.coolapk.com/apk/me.yluo.ruisiapp)
+[酷安市场](https://www.coolapk.com/apk/me.yluo.ruisiapp)
 
 ### 软件截图
 ![image](https://github.com/freedom10086/Ruisi/blob/master/screenshots/1.jpeg)
